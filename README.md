@@ -1,6 +1,20 @@
 # Resumos e exercícios 
 
-Conteúdo:
+### Conteúdo:
 
-Exercício 1 - Salario funcionarios (Portugol)
-Exercício 2 - Matriz (Portugol)
+#### Exercícios
+
+- html_instagram 
+- logica 
+  - exercício_1 (portugol - Total de vendas)
+  - exercicio_2  (portugol - Lista)
+
+#### Resumos 
+
+- csharp 
+- git
+  - git
+- html
+  - html
+- javascript
+  - javascript
